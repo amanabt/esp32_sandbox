@@ -13,9 +13,9 @@ idf.py create-project <project name>
 ├── CMakeLists.txt
 └── main
     ├── CMakeLists.txt
-    └── Prototype_3.c
+    └── hello_world.c
 ```
-- Where `Prototype_3.c` is out main file with the following code in it
+- Where `hello_world.c` is out main file with the following code in it
 ``` C++
 #include <stdio.h>
 
